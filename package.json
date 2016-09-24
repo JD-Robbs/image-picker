@@ -1,0 +1,6 @@
+{
+  "name": "jquery-image-picker",
+  "version": "0.2.4",
+  "description": "Description.",
+  "main": "image-picker/image-picker.min.js"
+}
